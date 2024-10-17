@@ -23,7 +23,7 @@
   </picture>
 </div>
 
-   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,git,github&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,bootstrap,git,github&theme=dark" />
 
  <br> 
 
