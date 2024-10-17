@@ -8,7 +8,7 @@
 </h1>
 
 <h1>My contacts 📲</h1>
-<div style="flex">
+<div style="flex" aling="center">
   <a href="https://www.instagram.com/deryaxnw/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-ryan-491869279/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </div>
