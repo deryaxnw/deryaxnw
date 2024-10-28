@@ -31,3 +31,7 @@
     <img alt="Jogo da Cobrinha" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
