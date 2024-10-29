@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ## 💜 Olá, meu nome é { João Ryan }!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Objetivo de me tornar um desenvolvedor Front-end.
 
 🔭 Ando desenvolvendo um E-commerce (DripStore) com uso de React,API,Banco de dados (integração de Front e Back)
 
