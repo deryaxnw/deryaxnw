@@ -7,7 +7,7 @@ Objetivo de me tornar um desenvolvedor Front-end.
 🔭 Ando desenvolvendo um E-commerce (DripStore) com uso de React,API,Banco de dados (integração de Front e Back)
 
 💬 Técnico de Informática e amante do densenvolvimento web. A tecnólogia sempre me serviu a praticidade. Busco me desenvolver e crescer nessa brilhante e intensa área..
-  <p align="left">
+  <p align="center">
   <a href="mailto:joaoryanoliveira2005@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-ryan-491869279/" title="LinkedIn">
@@ -19,14 +19,18 @@ Objetivo de me tornar um desenvolvedor Front-end.
 ---
 <br>
 
-## 🚀 Minhas Skills
+  
+<h1 align="center">🚀 Minhas Skills</h1> 
+  
 
+  <p align="center">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+</p>
 
 
  <div align="center">
