@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/af/f4/99/aff499a5ce476e7ac518c2b9219a4dd8.gif" alt="ilustração de um computador" min-width="400px" max-width="300px" width="250px" align="right">
+<img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="350px" align="right">
 
 <h3>💜 Olá, meu nome é { João Ryan }!</h3>
 
