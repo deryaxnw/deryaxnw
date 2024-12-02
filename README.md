@@ -14,7 +14,7 @@ Objetivo de me tornar um desenvolvedor Front-end.
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/garotoceanoo/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-  <a href="https://drive.google.com/file/d/1qPpDrp--f4swDzgFzxqoq5logOFcCqSO/view?usp=sharing"><img src="https://img.shields.io/badge/-CV-0078D4?style=flat-square&labelColor=0078D4&logo=readme&logoColor=white"</a>
+  <a href="https://drive.google.com/file/d/12YebeoRCrXDTixICqQAcauuyi54mfS4q/view?usp=sharing"><img src="https://img.shields.io/badge/-CV-0078D4?style=flat-square&labelColor=0078D4&logo=readme&logoColor=white"</a>
 </p>
 
 ---
