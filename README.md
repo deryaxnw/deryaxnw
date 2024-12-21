@@ -2,9 +2,9 @@
 
 <h3>💜 Olá, meu nome é { João Ryan }!</h3>
 
-Objetivo de me tornar um desenvolvedor Front-end.
+Objetivo de me tornar um desenvolvedor Full Stack.
 
-🔭 Ando desenvolvendo um E-commerce (DripStore) com uso de React,API,Banco de dados (integração de Front e Back)
+🔭 Ando me desenvolvendo profissionalmente e tornando cada vez mais real meu lugar no mundo Tech. 
 
 💬 Técnico de Informática e amante do densenvolvimento web. A tecnólogia sempre me serviu a praticidade. Busco me desenvolver e crescer nessa brilhante e intensa área..
   <p align="center">
